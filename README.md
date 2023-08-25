@@ -1,4 +1,4 @@
-# Simple Dashboard with Vuetify
+# Simple Dashboard with Vuetify 3
 
 
 
