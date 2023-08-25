@@ -4,6 +4,9 @@
 
 This is my first project using Vuetify and it's an exploration of the ready-made components, building a simple Dashboard.
 
+![print](https://github.com/cesarfreire/simple-dashboard-vuetify/assets/21126103/656b5cd1-3c3c-40a2-ab24-ae1b90cee885)
+
+
 ## Project setup
 
 ```
